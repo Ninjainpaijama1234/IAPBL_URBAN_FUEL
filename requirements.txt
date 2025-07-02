@@ -1,0 +1,12 @@
+# --- core dashboard stack ---
+streamlit
+pandas
+numpy
+plotly
+
+# --- machine-learning toolchain ---
+scikit-learn
+mlxtend       # apriori / association-rules
+
+# --- synthetic-data helper (optional sample generation) ---
+faker
