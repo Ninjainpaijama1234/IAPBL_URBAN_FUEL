@@ -37,7 +37,7 @@ a.dl:hover{background:#3c6fe0}
 </style>
 """, unsafe_allow_html=True)
 
-DATA_FILE = "Urban_Fuel_Synthetic_Dataset.csv"
+DATA_FILE = "UrbanFuelSyntheticSurvey.csv"
 
 # ====== HELPERS ===============================================================
 def _to_num(s: pd.Series) -> pd.Series:
